@@ -17,6 +17,9 @@ def multiply(x,y):
 def divide(x,y):
     return x/y
 
+def sin(x,y):
+    return sin(x,y)
+
 
 def sin(x,y):
     return math.sin(x,y)
